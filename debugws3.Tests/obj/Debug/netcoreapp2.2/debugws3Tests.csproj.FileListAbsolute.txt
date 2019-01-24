@@ -1,0 +1,17 @@
+/home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.csprojAssemblyReference.cache
+/home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.csproj.CoreCompileInputs.cache
+/home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.AssemblyInfoInputs.cache
+/home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.AssemblyInfo.cs
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/debugws3Tests.deps.json
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/debugws3Tests.runtimeconfig.json
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/debugws3Tests.runtimeconfig.dev.json
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/debugws3Tests.dll
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/debugws3Tests.pdb
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/debugws3.dll
+/home/derik/workshops/debugws3/debugws3.Tests/bin/Debug/netcoreapp2.2/debugws3.pdb
+/home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.csproj.CopyComplete
+/home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.dll
+/home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.pdb
