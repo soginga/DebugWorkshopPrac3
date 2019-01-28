@@ -15,3 +15,20 @@
 /home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.csproj.CopyComplete
 /home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.dll
 /home/derik/workshops/debugws3/debugws3.Tests/obj/Debug/netcoreapp2.2/debugws3Tests.pdb
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\debugws3Tests.deps.json
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\debugws3Tests.runtimeconfig.json
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\debugws3Tests.runtimeconfig.dev.json
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\debugws3Tests.dll
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\debugws3Tests.pdb
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\debugws3.dll
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\bin\Debug\netcoreapp2.2\debugws3.pdb
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\obj\Debug\netcoreapp2.2\debugws3Tests.csprojAssemblyReference.cache
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\obj\Debug\netcoreapp2.2\debugws3Tests.csproj.CoreCompileInputs.cache
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\obj\Debug\netcoreapp2.2\debugws3Tests.AssemblyInfoInputs.cache
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\obj\Debug\netcoreapp2.2\debugws3Tests.AssemblyInfo.cs
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\obj\Debug\netcoreapp2.2\debugws3Tests.csproj.CopyComplete
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\obj\Debug\netcoreapp2.2\debugws3Tests.dll
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3.Tests\obj\Debug\netcoreapp2.2\debugws3Tests.pdb

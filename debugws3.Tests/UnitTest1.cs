@@ -52,5 +52,17 @@ namespace Tests
       var result = Calc.Calculate(value);
       Assert.IsTrue(result.result == 1, $"{value} should be 1");
     }
+
+    [DataTestMethod]
+    [DataRow("    1+3*3")]
+    [DataRow("    3*4-12/6")]
+    [DataRow("    10*3/3+2/2-1")]
+    [DataRow("    3*4-2")]
+    [DataRow("    4+18/3")]
+    public void DoCalculation(string value)
+    {
+      var result = Calc.Calculate(value);
+      Assert.IsTrue(result.result == 10, $"{value} should be 10");
+    }
   }
 }

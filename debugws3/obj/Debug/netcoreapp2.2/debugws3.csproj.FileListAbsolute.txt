@@ -9,3 +9,14 @@
 /home/derik/workshops/debugws3/debugws3/obj/Debug/netcoreapp2.2/debugws3.dll
 /home/derik/workshops/debugws3/debugws3/obj/Debug/netcoreapp2.2/debugws3.pdb
 /home/derik/workshops/debugws3/debugws3/obj/Debug/netcoreapp2.2/debugws3.csprojAssemblyReference.cache
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\bin\Debug\netcoreapp2.2\debugws3.deps.json
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\bin\Debug\netcoreapp2.2\debugws3.runtimeconfig.json
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\bin\Debug\netcoreapp2.2\debugws3.runtimeconfig.dev.json
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\bin\Debug\netcoreapp2.2\debugws3.dll
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\bin\Debug\netcoreapp2.2\debugws3.pdb
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\obj\Debug\netcoreapp2.2\debugws3.csprojAssemblyReference.cache
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\obj\Debug\netcoreapp2.2\debugws3.csproj.CoreCompileInputs.cache
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\obj\Debug\netcoreapp2.2\debugws3.AssemblyInfoInputs.cache
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\obj\Debug\netcoreapp2.2\debugws3.AssemblyInfo.cs
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\obj\Debug\netcoreapp2.2\debugws3.dll
+C:\Users\Simtembile Soginga\Documents\Project\Debugging\DebugWorkshopPrac3\debugws3\obj\Debug\netcoreapp2.2\debugws3.pdb

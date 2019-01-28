@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections;
+using System.Data;
 using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading;
@@ -87,6 +89,8 @@ namespace debugws3
 
       double result = numbersToBeCalculated[0];
 
+      Stack stack =new Stack();
+
       var j = 0;
       for (var i = 1; i < numbersToBeCalculated.Length; i++)
       {
@@ -117,6 +121,9 @@ namespace debugws3
         }
         j++;
       }
+
+      DataTable t = new DataTable();
+      result = Convert.ToDouble( t.Compute(input, null));
 
       return new Result(result, "");
     }

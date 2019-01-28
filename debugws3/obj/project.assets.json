@@ -686,28 +686,30 @@
     ]
   },
   "packageFolders": {
-    "/home/derik/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Simtembile Soginga\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/derik/workshops/debugws3/debugws3/debugws3.csproj",
+      "projectUniqueName": "c:\\Users\\Simtembile Soginga\\Documents\\Project\\Debugging\\DebugWorkshopPrac3\\debugws3\\debugws3.csproj",
       "projectName": "debugws3",
-      "projectPath": "/home/derik/workshops/debugws3/debugws3/debugws3.csproj",
-      "packagesPath": "/home/derik/.nuget/packages/",
-      "outputPath": "/home/derik/workshops/debugws3/debugws3/obj/",
+      "projectPath": "c:\\Users\\Simtembile Soginga\\Documents\\Project\\Debugging\\DebugWorkshopPrac3\\debugws3\\debugws3.csproj",
+      "packagesPath": "C:\\Users\\Simtembile Soginga\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Simtembile Soginga\\Documents\\Project\\Debugging\\DebugWorkshopPrac3\\debugws3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/derik/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Simtembile Soginga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
